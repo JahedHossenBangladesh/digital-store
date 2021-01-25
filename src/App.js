@@ -1,8 +1,13 @@
-import logo from "./logo.svg";
+import React, { Component } from "react";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-function App() {
-  return <h1>This is Jahed</h1>;
-}
 
-export default App;
+export default class App extends Component {
+  render() {
+    return (
+      <div>
+        <h1>This is Jahdded</h1>;
+      </div>
+    );
+  }
+}
