@@ -8,6 +8,7 @@ class ProductProvider extends Component {
     cartOpen: false,
     cartItems: 12,
     links: linkData,
+    cart: [],
   };
 
   handleSidebar = () => {

@@ -13,7 +13,7 @@ export const linkData = [
   {
     id: 3,
     text: "products",
-    path: "/product",
+    path: "/products",
   },
   {
     id: 4,
